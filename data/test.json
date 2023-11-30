@@ -1,0 +1,254 @@
+[
+  {
+    "title": "CT Scan",
+    "slug": "ct-scan",
+    "image": "https://i.ibb.co/hZjXpB0/ct-scan.jpg",
+    "description": "CT Scan is a non-invasive medical imaging technique that uses specialized X-ray equipment to produce detailed images of the body.",
+    "price": 150,
+    "promo_code": "MED123",
+    "discount_percent": 10,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Digital X-Ray",
+    "slug": "digital-xray",
+    "image": "https://i.ibb.co/3dc4P52/digital-xray.jpg",
+    "description": "Digital X-Ray is an advanced imaging technique that uses digital sensors to capture detailed X-ray images, providing quick and precise diagnostics.",
+    "price": 80,
+    "promo_code": "MED123",
+    "discount_percent": 5,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "ECG",
+    "slug": "ecg",
+    "image": "https://i.ibb.co/SQz5qrS/ecg-test.jpg",
+    "description": "Electrocardiography (ECG or EKG) is a diagnostic tool that records the electrical activity of the heart over a period of time.",
+    "price": 50,
+    "promo_code": "MED123",
+    "discount_percent": 8,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Ultrasonography",
+    "slug": "ultrasonography",
+    "image": "https://i.ibb.co/6tzYdB0/ultrasonography.jpg",
+    "description": "Ultrasonography uses sound waves to produce images of internal body structures, aiding in the diagnosis of various medical conditions.",
+    "price": 120,
+    "promo_code": "MED123",
+    "discount_percent": 12,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Video Endoscopy",
+    "slug": "video-endoscopy",
+    "image": "https://i.ibb.co/f9FnVpw/video-endoscopy.jpg",
+    "description": "Video Endoscopy is a medical procedure that uses a flexible tube with a light and camera to examine the interior of organs or cavities.",
+    "price": 200,
+    "promo_code": "MED123",
+    "discount_percent": 15,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Bio-Chemistry",
+    "slug": "bio-chemistry",
+    "image": "https://i.ibb.co/8cGhHMG/Bio-Chemistry.jpg",
+    "description": "Bio-Chemistry involves the study of chemical processes and substances that occur within living organisms, aiding in medical diagnostics.",
+    "price": 90,
+    "promo_code": "MED123",
+    "discount_percent": 7,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Immunology",
+    "slug": "immunology",
+    "image": "https://i.ibb.co/bJxjW8J/immunology.jpg",
+    "description": "Immunology is the branch of medicine and biology concerned with the immune system and its response to pathogens, promoting health and preventing diseases.",
+    "price": 100,
+    "promo_code": "MED123",
+    "discount_percent": 9,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Serology",
+    "slug": "serology",
+    "image": "https://i.ibb.co/W0Ykyz8/serology.jpg",
+    "description": "Serology involves the study of blood serum to detect the presence of antibodies or antigens, aiding in the diagnosis of infectious diseases.",
+    "price": 70,
+    "promo_code": "MED123",
+    "discount_percent": 6,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Heamatology",
+    "slug": "heamatology",
+    "image": "https://i.ibb.co/SJvr8VD/hematology.jpg",
+    "description": "Heamatology involves the study of blood and blood-forming tissues, aiding in the diagnosis and treatment of various blood disorders.",
+    "price": 120,
+    "promo_code": "MED123",
+    "discount_percent": 10,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Microbiology",
+    "slug": "microbiology",
+    "image": "https://i.ibb.co/KhZ3HSx/microbiology.jpg",
+    "description": "Microbiology is the study of microorganisms, including bacteria, viruses, and fungi, to understand their behavior and impact on human health.",
+    "price": 85,
+    "promo_code": "MED123",
+    "discount_percent": 8,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Histopathology",
+    "slug": "histopathology",
+    "image": "https://i.ibb.co/KsmJtmz/histology.jpg",
+    "description": "Histopathology involves the microscopic examination of tissues to diagnose diseases and understand their underlying causes.",
+    "price": 110,
+    "promo_code": "MED123",
+    "discount_percent": 12,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  },
+  {
+    "title": "Automated Blood Culture",
+    "slug": "automated-blood-culture",
+    "image": "https://i.ibb.co/LSv4wh0/blood-culture.jpg",
+    "description": "Automated Blood Culture is a laboratory test that helps detect and identify microorganisms in the blood, aiding in the diagnosis of infections.",
+    "price": 160,
+    "promo_code": "MED123",
+    "discount_percent": 15,
+    "slots": [
+      "10.00 AM - 10.30 AM",
+      "10.30 AM - 11.00 AM",
+      "11.00 AM - 11.30 AM",
+      "11.30 AM - 12.00 PM",
+      "12.00 PM - 12.30 PM",
+      "12.30 PM - 01.00 PM",
+      "02.00 PM - 02.30 PM",
+      "02.30 PM - 03.00 PM",
+      "03.00 PM - 03.30 PM",
+      "03.30 PM - 04.00 PM"
+    ]
+  }
+]

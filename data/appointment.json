@@ -1,0 +1,32 @@
+[
+  {
+    "user_email": "nusrat@gmail.com",
+    "phone": "+8801409029742",
+    "test_slug": "ct-scan",
+    "status": "pending",
+    "booking_slot": "11.30 AM - 12.00 PM",
+    "booking_date": "1-12-2023",
+    "payment_status": true,
+    "payment_id": "985043827592053"
+  },
+  {
+    "user_email": "nusrat@gmail.com",
+    "phone": "+8801409029742",
+    "test_slug": "ct-scan",
+    "status": "pending",
+    "booking_slot": "02.30 PM - 03.00 PM",
+    "booking_date": "1-12-2023",
+    "payment_status": true,
+    "payment_id": "985043827592053"
+  },
+  {
+    "user_email": "nusrat@gmail.com",
+    "phone": "+8801409029742",
+    "test_slug": "digital-xray",
+    "status": "pending",
+    "booking_slot": "10.00 AM - 10.30 AM",
+    "booking_date": "1-12-2023",
+    "payment_status": true,
+    "payment_id": "985043827592053"
+  }
+]
